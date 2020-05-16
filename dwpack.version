@@ -1,1 +1,12 @@
+{
 
+"masterVersionFile":"https://github.com/cryingobsidian/ssmod/blob/master/dwpack.version",
+    "modName":"DerWand Pack",
+    "modThreadId":0,
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":0
+    },
+}
